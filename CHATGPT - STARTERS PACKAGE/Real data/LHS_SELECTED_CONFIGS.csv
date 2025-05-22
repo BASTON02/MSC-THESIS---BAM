@@ -1,7 +1,0 @@
-DB_Memory,MAS_Workers,Parallel_Jobs,Configuration,Selection_Method
-1750,34,60,Config_126,LHS
-1250,70,30,Config_105,LHS
-750,10,20,Config_38,LHS
-2500,46,40,Config_202,LHS
-2250,58,50,Config_173,LHS
-250,22,10,Config_7,LHS
